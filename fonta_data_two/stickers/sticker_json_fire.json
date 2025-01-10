@@ -1,0 +1,53 @@
+[
+    {
+      "category": "strangers",
+      "thumbnail": "stickers/sstt.png",
+      "url": "stickers/sst.zip"
+    },
+    {
+        "category": "Angry",
+        "thumbnail": "stickers/Angry/agnry_thumb.jpg",
+        "url": "stickers/Angry/angry.zip"
+    },
+    {
+        "category": "Appreciation",
+        "thumbnail": "stickers/Appreciation/Appreciation_thumb.jpg",
+        "url": "stickers/Appreciation/Appreciation.zip"
+    },
+    {
+        "category": "Babies",
+        "thumbnail": "stickers/Babies/babies_thumb.jpg",
+        "url": "stickers/Babies/Babies.zip"
+    },
+    {
+        "category": "Bye",
+        "thumbnail": "stickers/Bye/bye_thumb.jpg",
+        "url": "stickers/Bye/Bye.zip"
+    },
+    {
+        "category": "Happy",
+        "thumbnail": "stickers/Happy/happy_thumb.jpg",
+        "url": "stickers/Happy/Happy.zip"
+    },
+    {
+        "category": "Hi",
+        "thumbnail": "stickers/Hi/hi_thumb.jpg",
+        "url": "stickers/Hi/Hi.zip"
+    },
+    {
+        "category": "Laugh",
+        "thumbnail": "stickers/Laugh/laugh_thumb.jpg",
+        "url": "stickers/Laugh/Laugh.zip"
+    },
+    {
+        "category": "Thug",
+        "thumbnail": "stickers/Thug/thug_thumb.jpg",
+        "url": "stickers/Thug/Thug.zip"
+    },
+    {
+        "category": "Worry",
+        "thumbnail": "stickers/Worry/worry_thumb.jpg",
+        "url": "stickers/Worry/worry.zip"
+    }
+
+  ]
