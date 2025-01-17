@@ -4,5 +4,11 @@
     "category": "Trending",
     "sub_category": "ALL",
     "url": "/Trending.zip"
+  },
+  {
+    "index": 1,
+    "category": "Anime",
+    "sub_category": "ALL",
+    "url": "/Anime.zip"
   }
 ]
