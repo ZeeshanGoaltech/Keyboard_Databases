@@ -3,21 +3,6 @@
     {
       "sub_category": "ALL",
       "url": "/Anime/AOT/aot_2.jpg"
-    },
-    {
-      "sub_category": "AOT",
-      "url": "/Anime/AOT/aot_3.jpg"
-    },
-    {
-      "sub_category": "AOT",
-      "url": "/Anime/AOT/aot_4.jpg"
-    },{
-      "sub_category": "AOT",
-      "url": "/Anime/AOT/aot_13.jpg"
-    },
-    {
-      "sub_category": "AOT",
-      "url": "/Anime/AOT/aot_16.jpg"
     }
   ],
   "Anime": [
@@ -968,5 +953,5 @@
     "sub_category": "Apple",
     "url": "/Fruits_Vegetables/Apple/apple_16.jpg"
   }
-  ],
+  ]
 }
