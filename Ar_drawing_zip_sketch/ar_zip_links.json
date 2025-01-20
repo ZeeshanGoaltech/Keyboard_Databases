@@ -658,5 +658,316 @@
     "sub_category": "Pokemon",
     "url": "/Anime/Pokemon/pk_21.jpg"
   } 
-  ]
+  ],
+
+   "Animal": [
+  {
+   {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_1.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_2.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_3.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_4.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_5.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_6.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_7.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_8.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_9.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_10.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_11.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_12.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_13.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_14.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_15.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_16.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_17.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_18.jpg"
+  },
+  {
+    "sub_category": "Cats",
+    "url": "/Animal/Cats/ac_19.jpg"
+  }
+  ],
+     "Cartoons": [
+ {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_1.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_2.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_3.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_4.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_5.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_6.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_7.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_8.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_9.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_10.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_11.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_12.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_13.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_14.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_15.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_16.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_17.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_18.jpg"
+  },
+  {
+    "sub_category": "Doremon",
+    "url": "/Cartoons/Doremon/doremon_19.jpg"
+  }
+  ],
+  "Flowers": [
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_1.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_2.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_3.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_4.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_5.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_6.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_7.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_8.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_9.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_10.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_11.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_12.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_13.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_14.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_15.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_16.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_17.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_18.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_19.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_20.jpg"
+  },
+  {
+    "sub_category": "Daisies",
+    "url": "/Flowers/Daisies/daises_21.jpg"
+  }
+  ],
+
+   "Fruits_Vegetables": [
+   {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_1.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_2.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_3.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_4.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_5.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_6.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_7.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_8.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_9.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_10.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_11.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_12.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_13.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_14.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_15.jpg"
+  },
+  {
+    "sub_category": "Apple",
+    "url": "/Fruits_Vegetables/Apple/apple_16.jpg"
+  }
+  ],
 }
