@@ -256,6 +256,27 @@
       "theme_zip_link": "kb/theme_40.zip",
       "theme_thumbnail": "kb/thumbnail_t40.png",
       "theme_type": "Flowers"
+    },
+    {
+      "theme_id": 132,
+      "theme_name": "Pin36k",
+      "theme_zip_link": "kb/theme_41.zip",
+      "theme_thumbnail": "kb/thumbnail_t41.png",
+      "theme_type": "Ramazan"
+    },
+    {
+      "theme_id": 132,
+      "theme_name": "Pin36k",
+      "theme_zip_link": "kb/theme_42.zip",
+      "theme_thumbnail": "kb/thumbnail_t42.png",
+      "theme_type": "Ramazan"
+    },
+    {
+      "theme_id": 132,
+      "theme_name": "Pin38k",
+      "theme_zip_link": "kb/theme_43.zip",
+      "theme_thumbnail": "kb/thumbnail_t43.png",
+      "theme_type": "Ramazan"
     }
     
     
