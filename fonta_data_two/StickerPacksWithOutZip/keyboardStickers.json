@@ -1,125 +1,126 @@
 {
-  "sticker_packs": [
-    {
-      "title": "Angry Thumb",
-      "emotes": [
-        "Angry/angry_1.webp",
-        "Angry/angry_2.webp",
-        "Angry/angry_3.webp",
-        "Angry/angry_4.webp",
-        "Angry/angry_5.webp"
-      ],
-      "thumbnail": "Angry/angry_thumb.jpg"
-    },
-    {
-      "title": "Appreciation Thumb",
-      "emotes": [
-        "Appreciation/appreciation_1.webp",
-        "Appreciation/appreciation_2.webp",
-        "Appreciation/appreciation_3.webp",
-        "Appreciation/appreciation_4.webp",
-        "Appreciation/appreciation_5.webp",
-        "Appreciation/appreciation_6.webp"
-      ],
-      "thumbnail": "Appreciation/appreciation_thumb.jpg"
-    },
-    {
-      "title": "Babies Thumb",
-      "emotes": [
-        "Babies/babies_1.webp",
-        "Babies/babies_2.webp",
-        "Babies/babies_3.webp",
-        "Babies/babies_4.webp",
-        "Babies/babies_5.webp",
-        "Babies/babies_6.webp",
-        "Babies/babies_7.webp",
-        "Babies/babies_8.webp"
-      ],
-      "thumbnail": "Babies/babies_thumb.jpg"
-    },
-    {
-      "title": "Bye Thumb",
-      "emotes": [
-        "Bye/bye_1.webp",
-        "Bye/bye_2.webp",
-        "Bye/bye_3.webp",
-        "Bye/bye_4.webp",
-        "Bye/bye_5.webp",
-        "Bye/bye_6.webp"
-      ],
-      "thumbnail": "Bye/bye_thumb.jpg"
-    },
-    {
-      "title": "Happy Thumb",
-      "emotes": [
-        "Happy/happy_1.webp",
-        "Happy/happy_2.webp",
-        "Happy/happy_3.webp",
-        "Happy/happy_4.webp",
-        "Happy/happy_5.webp",
-        "Happy/happy_6.webp"
-      ],
-      "thumbnail": "Happy/happy_thumb.jpg"
-    },
-    {
-      "title": "Hi Thumb",
-      "emotes": [
-        "Hi/hi_1.webp",
-        "Hi/hi_2.webp",
-        "Hi/hi_3.webp",
-        "Hi/hi_4.webp",
-        "Hi/hi_5.webp",
-        "Hi/hi_6.webp",
-        "Hi/hi_7.webp",
-        "Hi/hi_8.webp",
-        "Hi/hi_9.webp",
-        "Hi/hi_10.webp"
-      ],
-      "thumbnail": "Hi/hi_thumb.jpg"
-    },
-    {
-      "title": "Laugh Thumb",
-      "emotes": [
-        "Laugh/laugh_1.webp",
-        "Laugh/laugh_2.webp",
-        "Laugh/laugh_3.webp",
-        "Laugh/laugh_4.webp",
-        "Laugh/laugh_5.webp",
-        "Laugh/laugh_6.webp",
-        "Laugh/laugh_7.webp",
-        "Laugh/laugh_8.webp",
-        "Laugh/laugh_9.webp",
-        "Laugh/laugh_10.webp",
-        "Laugh/laugh_11.webp",
-        "Laugh/laugh_12.webp",
-        "Laugh/laugh_13.webp"
-      ],
-      "thumbnail": "Laugh/laugh_thumb.jpg"
-    },
-    {
-      "title": "Thug Thumb",
-      "emotes": [
-        "Thug/thug_1.webp",
-        "Thug/thug_2.webp",
-        "Thug/thug_3.webp",
-        "Thug/thug_4.webp",
-        "Thug/thug_5.webp",
-        "Thug/thug_6.webp",
-        "Thug/thug_7.webp"
-      ],
-      "thumbnail": "Thug/thug_thumb.jpg"
-    },
-    {
-      "title": "Worry Thumb",
-      "emotes": [
-        "Worry/worry_1.webp",
-        "Worry/worry_2.webp",
-        "Worry/worry_3.webp",
-        "Worry/worry_4.webp",
-        "Worry/worry_5.webp",
-        "Worry/worry_6.webp"
-      ],
-      "thumbnail": "Worry/worry_thumb.jpg"
-    }
-  ]
-}
+    "sticker_packs": [
+      {
+        "title": "Angry Thumb",
+        "emotes": [
+          "Angry/angry_1.webp",
+          "Angry/angry_2.webp",
+          "Angry/angry_3.webp",
+          "Angry/angry_4.webp",
+          "Angry/angry_5.webp"
+        ],
+        "thumbnail": "Angry/angry_thumb.jpg"
+      },
+      {
+        "title": "Appreciation Thumb",
+        "emotes": [
+          "Appreciation/appreciation_1.webp",
+          "Appreciation/appreciation_2.webp",
+          "Appreciation/appreciation_3.webp",
+          "Appreciation/appreciation_4.webp",
+          "Appreciation/appreciation_5.webp",
+          "Appreciation/appreciation_6.webp"
+        ],
+        "thumbnail": "Appreciation/appreciation_thumb.jpg"
+      },
+      {
+        "title": "Babies Thumb",
+        "emotes": [
+          "Babies/babies_1.webp",
+          "Babies/babies_2.webp",
+          "Babies/babies_3.webp",
+          "Babies/babies_4.webp",
+          "Babies/babies_5.webp",
+          "Babies/babies_6.webp",
+          "Babies/babies_7.webp",
+          "Babies/babies_8.webp"
+        ],
+        "thumbnail": "Babies/babies_thumb.jpg"
+      },
+      {
+        "title": "Bye Thumb",
+        "emotes": [
+          "Bye/bye_1.webp",
+          "Bye/bye_2.webp",
+          "Bye/bye_3.webp",
+          "Bye/bye_4.webp",
+          "Bye/bye_5.webp",
+          "Bye/bye_6.webp"
+        ],
+        "thumbnail": "Bye/bye_thumb.jpg"
+      },
+      {
+        "title": "Happy Thumb",
+        "emotes": [
+          "Happy/happy_1.webp",
+          "Happy/happy_2.webp",
+          "Happy/happy_3.webp",
+          "Happy/happy_4.webp",
+          "Happy/happy_5.webp",
+          "Happy/happy_6.webp"
+        ],
+        "thumbnail": "Happy/happy_thumb.jpg"
+      },
+      {
+        "title": "Hi Thumb",
+        "emotes": [
+          "Hi/hi_1.webp",
+          "Hi/hi_2.webp",
+          "Hi/hi_3.webp",
+          "Hi/hi_4.webp",
+          "Hi/hi_5.webp",
+          "Hi/hi_6.webp",
+          "Hi/hi_7.webp",
+          "Hi/hi_8.webp",
+          "Hi/hi_9.webp",
+          "Hi/hi_10.webp"
+        ],
+        "thumbnail": "Hi/hi_thumb.jpg"
+      },
+      {
+        "title": "Laugh Thumb",
+        "emotes": [
+          "Laugh/laugh_1.webp",
+          "Laugh/laugh_2.webp",
+          "Laugh/laugh_3.webp",
+          "Laugh/laugh_4.webp",
+          "Laugh/laugh_5.webp",
+          "Laugh/laugh_6.webp",
+          "Laugh/laugh_7.webp",
+          "Laugh/laugh_8.webp",
+          "Laugh/laugh_9.webp",
+          "Laugh/laugh_10.webp",
+          "Laugh/laugh_11.webp",
+          "Laugh/laugh_12.webp",
+          "Laugh/laugh_13.webp"
+        ],
+        "thumbnail": "Laugh/laugh_thumb.jpg"
+      },
+      {
+        "title": "Thug Thumb",
+        "emotes": [
+          "Thug/thug_1.webp",
+          "Thug/thug_2.webp",
+          "Thug/thug_3.webp",
+          "Thug/thug_4.webp",
+          "Thug/thug_5.webp",
+          "Thug/thug_6.webp",
+          "Thug/thug_7.webp"
+        ],
+        "thumbnail": "Thug/thug_thumb.jpg"
+      },
+      {
+        "title": "Worry Thumb",
+        "emotes": [
+          "Worry/worry_1.webp",
+          "Worry/worry_2.webp",
+          "Worry/worry_3.webp",
+          "Worry/worry_4.webp",
+          "Worry/worry_5.webp",
+          "Worry/worry_6.webp"
+        ],
+        "thumbnail": "Worry/worry_thumb.jpg"
+      }
+    ]
+  }
+  
