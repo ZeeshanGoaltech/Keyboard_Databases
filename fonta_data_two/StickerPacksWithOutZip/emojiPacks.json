@@ -12,42 +12,42 @@
       },
       {
         "event": "Eid",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_eid.png",
         "emojis": ["🕌", "🌙", "🕋", "🐐", "🤲", "🎁", "🧕", "🧔", "🍽️", "🧴", "🕌", "💫", "🧿"]
       },
       {
         "event": "Valentine's Day",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_valentine.png",
         "emojis": ["💘", "❤️", "💋", "🥰", "🌹", "💌", "💑", "💍", "😘", "🧸"]
       },
       {
         "event": "Halloween",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_holloween.png",
         "emojis": ["🎃", "👻", "🧛", "🧟", "🧙", "🕸️", "🦇", "🕷️", "🍬"]
       },
       {
         "event": "Pakistan Independence Day",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_pakistan.png",
         "emojis": ["🇵🇰", "🌙✨", "🎉", "🕋", "🎆", "🕌", "🎇", "💚"]
       },
       {
         "event": "Graduation",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_graduation.png",
         "emojis": ["🎓", "📜", "🏅", "🎉", "🥂", "🎊", "📸"]
       },
       {
         "event": "Wedding",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_wedding.png",
         "emojis": ["👰", "🤵", "💍", "💐", "🥂", "🎉", "💑", "🏰", "💌", "🍰", "🎶"]
       },
       {
         "event": "Cricket Match",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_cricekt.png",
         "emojis": ["🏏", "🏟️", "🇵🇰", "🇮🇳", "🎽", "📣", "🎉", "🏆", "🔥", "🤞", "🙌", "🧢", "🎥"]
       },
       {
         "event": "Back to School",
-        "thumbnail": "emojiThumb/emoiji_crishmis.png",
+        "thumbnail": "emojiThumb/emoji_scool.png",
         "emojis": ["🎒", "📚", "✏️", "📓", "🧮", "🚌", "📏", "🧑‍🏫", "🕘"]
       }
     ]
