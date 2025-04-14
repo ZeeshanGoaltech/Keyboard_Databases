@@ -49,7 +49,207 @@
         "event": "Back to School",
         "thumbnail": "emojiThumb/emoji_scool.png",
         "emojis": ["🎒", "📚", "✏️", "📓", "🧮", "🚌", "📏", "🧑‍🏫", "🕘"]
-      }
+      },
+        {
+      "event": "New Year",
+      "thumbnail": "emojiThumb/emoji_newyear.png",
+      "emojis": ["🎉", "🎆", "🥂", "🎊", "🎇", "🕛", "🍾", "📆", "✨", "🎶"]
+    },
+    {
+      "event": "Rainy Day",
+      "thumbnail": "emojiThumb/emoji_rainy.png",
+      "emojis": ["🌧️", "☔", "⛈️", "💧", "🌂", "🌈", "🧥", "🩴"]
+    },
+    {
+      "event": "Exam Time",
+      "thumbnail": "emojiThumb/emoji_exam.png",
+      "emojis": ["📝", "📚", "🧠", "😰", "⏰", "📖", "✍️", "🙇‍♂️", "💡"]
+    },
+    {
+      "event": "Travel",
+      "thumbnail": "emojiThumb/emoji_travel.png",
+      "emojis": ["✈️", "🌍", "🧳", "🏝️", "🚞", "🗺️", "📸", "🏨", "🚗", "🚌"]
+    },
+    {
+      "event": "Music Festival",
+      "thumbnail": "emojiThumb/emoji_musicfest.png",
+      "emojis": ["🎵", "🎧", "🎸", "🎤", "🥁", "🎷", "🎶", "🕺", "💃", "🎼"]
+    },
+        {
+      "event": "Ramadan",
+      "thumbnail": "emojiThumb/emoji_ramadan.png",
+      "emojis": ["🌙", "🕌", "📿", "🧕", "🤲", "🕋", "🌟", "🍽️", "🧴"]
+    },
+    {
+      "event": "Summer Vacation",
+      "thumbnail": "emojiThumb/emoji_summer.png",
+      "emojis": ["🌞", "🏖️", "🍹", "🕶️", "🩳", "🏄", "🌊", "🧴", "🍉"]
+    },
+    {
+      "event": "Friendship Day",
+      "thumbnail": "emojiThumb/emoji_friendship.png",
+      "emojis": ["🤝", "💖", "😊", "🎉", "📸", "👫", "💬", "🎁", "🧋"]
+    },
+    {
+      "event": "Baby Shower",
+      "thumbnail": "emojiThumb/emoji_babyshower.png",
+      "emojis": ["👶", "🍼", "🎀", "🎉", "🎈", "💙", "💗", "🧸", "🧷"]
+    },
+    {
+      "event": "Fitness Motivation",
+      "thumbnail": "emojiThumb/emoji_fitness.png",
+      "emojis": ["💪", "🏋️", "🏃", "🧘", "🥗", "🍎", "🚴", "⏱️", "📊"]
+    },
+        {
+      "event": "Tech & Coding",
+      "thumbnail": "emojiThumb/emoji_tech.png",
+      "emojis": ["💻", "👨‍💻", "🖥️", "⌨️", "🖱️", "📱", "🔧", "⚙️", "💡"]
+    },
+    {
+      "event": "Gaming",
+      "thumbnail": "emojiThumb/emoji_gaming.png",
+      "emojis": ["🎮", "🕹️", "💥", "🏆", "👾", "🎧", "🧩", "🔥", "📡"]
+    },
+    {
+      "event": "Work From Home",
+      "thumbnail": "emojiThumb/emoji_wfh.png",
+      "emojis": ["🏠", "💻", "🪑", "☕", "📞", "🗓️", "✏️", "📊", "🙇"]
+    },
+    {
+      "event": "Cooking Time",
+      "thumbnail": "emojiThumb/emoji_cooking.png",
+      "emojis": ["🍳", "🥘", "🧂", "🍴", "👩‍🍳", "🔥", "🥗", "🍝", "🍔"]
+    },
+    {
+      "event": "Movie Night",
+      "thumbnail": "emojiThumb/emoji_movie.png",
+      "emojis": ["🎬", "🍿", "📽️", "🎥", "🎞️", "🎭", "🛋️", "🔊", "🎧"]
+    },
+          {
+      "event": "Pet Lovers",
+      "thumbnail": "emojiThumb/emoji_pets.png",
+      "emojis": ["🐶", "🐱", "🐾", "🐕", "🐈", "🦴", "🦜", "🐹", "🐢"]
+    },
+    {
+      "event": "Nature & Hiking",
+      "thumbnail": "emojiThumb/emoji_nature.png",
+      "emojis": ["🌲", "🏞️", "🥾", "🌄", "🧭", "🏕️", "🌳", "🌻", "🔥"]
+    },
+    {
+      "event": "Mental Health",
+      "thumbnail": "emojiThumb/emoji_mentalhealth.png",
+      "emojis": ["🧘", "🧠", "💆", "💖", "🌈", "🫂", "😌", "📖", "🌿"]
+    },
+    {
+      "event": "Sports Day",
+      "thumbnail": "emojiThumb/emoji_sports.png",
+      "emojis": ["⚽", "🏀", "🏈", "🎾", "🏓", "🥇", "🏃", "🏸", "⛹️"]
+    },
+    {
+      "event": "Shopping Spree",
+      "thumbnail": "emojiThumb/emoji_shopping.png",
+      "emojis": ["🛍️", "💳", "🛒", "👗", "👠", "🧥", "🎁", "💄", "📦"]
+    },
+    {
+      "event": "Book Lovers",
+      "thumbnail": "emojiThumb/emoji_books.png",
+      "emojis": ["📚", "📖", "🧠", "📝", "🔖", "📓", "📘", "☕", "🧣"]
+    },
+    {
+      "event": "Coffee Time",
+      "thumbnail": "emojiThumb/emoji_coffee.png",
+      "emojis": ["☕", "🧋", "🍩", "🥐", "📖", "💬", "🪑", "😌", "🕰️"]
+    },
+    {
+      "event": "Selfie Time",
+      "thumbnail": "emojiThumb/emoji_selfie.png",
+      "emojis": ["🤳", "📸", "😎", "💄", "💇", "🧥", "💁", "👒", "✨"]
+    },
+    {
+      "event": "Sleepy Mood",
+      "thumbnail": "emojiThumb/emoji_sleepy.png",
+      "emojis": ["😴", "🛌", "🌙", "💤", "🧸", "📴", "📕", "🕯️", "😌"]
+    },
+    {
+      "event": "Rainy Mood",
+      "thumbnail": "emojiThumb/emoji_rainmood.png",
+      "emojis": ["☔", "🌧️", "📖", "🧣", "🧦", "💭", "🕯️", "🎶", "☕"]
+    },
+    {
+      "event": "Beach Vibes",
+      "thumbnail": "emojiThumb/emoji_beach.png",
+      "emojis": ["🏖️", "🌊", "🏄", "👙", "🕶️", "🌞", "🍹", "📸", "🌴"]
+    },
+    {
+      "event": "Space Exploration",
+      "thumbnail": "emojiThumb/emoji_space.png",
+      "emojis": ["🚀", "🪐", "🌌", "👩‍🚀", "🛰️", "🌙", "⭐", "☄️", "🛸"]
+    },
+    {
+      "event": "Road Trip",
+      "thumbnail": "emojiThumb/emoji_roadtrip.png",
+      "emojis": ["🚗", "🗺️", "🛣️", "📍", "🎶", "🧃", "🌄", "🏕️", "📸"]
+    },
+    {
+      "event": "Party Night",
+      "thumbnail": "emojiThumb/emoji_party.png",
+      "emojis": ["🎉", "🍻", "💃", "🕺", "🎶", "🥂", "🎈", "🍕", "🔊"]
+    },
+    {
+      "event": "Picnic Day",
+      "thumbnail": "emojiThumb/emoji_picnic.png",
+      "emojis": ["🧺", "🍉", "🥪", "🧃", "☀️", "🌳", "🦋", "👨‍👩‍👧‍👦", "📸"]
+    },
+    {
+      "event": "Yoga Time",
+      "thumbnail": "emojiThumb/emoji_yoga.png",
+      "emojis": ["🧘", "🧘‍♀️", "🌿", "🕉️", "🧴", "💧", "🪷", "🫶", "😌"]
+    },
+    {
+      "event": "Cooking Night",
+      "thumbnail": "emojiThumb/emoji_cookingnight.png",
+      "emojis": ["🍽️", "🍳", "🧄", "🥬", "🧀", "👩‍🍳", "🔥", "🍝", "🍰"]
+    },
+    {
+      "event": "Makeup & Beauty",
+      "thumbnail": "emojiThumb/emoji_beauty.png",
+      "emojis": ["💄", "💋", "💅", "🪞", "👗", "🧴", "💇", "👑", "🧖"]
+    },
+    {
+      "event": "Workout Time",
+      "thumbnail": "emojiThumb/emoji_workout.png",
+      "emojis": ["🏋️", "🤸", "🏃", "💪", "⏱️", "🥗", "🧴", "📈", "🔥"]
+    },
+    {
+      "event": "Art & Creativity",
+      "thumbnail": "emojiThumb/emoji_art.png",
+      "emojis": ["🎨", "🖌️", "🧵", "✏️", "📐", "🖼️", "🧶", "🖋️", "📓"]
+    },
+    {
+      "event": "Spring Time",
+      "thumbnail": "emojiThumb/emoji_spring.png",
+      "emojis": ["🌸", "🐝", "🌼", "☀️", "🌱", "🧺", "🦋", "🌷", "🍓"]
+    },
+    {
+      "event": "Autumn Vibes",
+      "thumbnail": "emojiThumb/emoji_autumn.png",
+      "emojis": ["🍂", "🍁", "🧥", "☕", "📖", "🎃", "🌰", "🧤", "🧣"]
+    },
+    {
+      "event": "Winter Fun",
+      "thumbnail": "emojiThumb/emoji_winter.png",
+      "emojis": ["⛄", "❄️", "🧤", "🧣", "🎿", "☕", "🔥", "🎄", "🧥"]
+    },
+    {
+      "event": "Love & Romance",
+      "thumbnail": "emojiThumb/emoji_love.png",
+      "emojis": ["❤️", "💋", "💞", "💐", "💌", "😍", "👩‍❤️‍👨", "🎶", "🌹"]
+    },
+    {
+      "event": "Motivation & Success",
+      "thumbnail": "emojiThumb/emoji_motivation.png",
+      "emojis": ["🚀", "🎯", "💡", "📈", "🏆", "🧠", "👏", "💪", "⭐"]
+    }
     ]
   }
   
