@@ -1,44 +1,59 @@
 {
-    "categories": [
-        {
-            "id": 1,
-            "title": "Abstract",
-            "url_link": "abstract_wallpapers.json"
-        },
-        {
-            "id": 2,
-            "title": "Nature",
-            "url_link": "nature_wallpapers.json"
-        },
-        {
-            "id": 3,
-            "title": "Anime",
-            "url_link": "animation_wallpaper.json"
-        },
-        {
-            "id": 4,
-            "title": "Gaming",
-            "url_link": "gaming_wallpapers.json"
-        },
-        {
-            "id": 5,
-            "title": "Cartoon",
-            "url_link": "cartoon_wallpaper.json"
-        },
-        {
-            "id": 6,
-            "title": "Cars",
-            "url_link": "car_wallpapers.json"
-        },
-        {
-            "id": 7,
-            "title": "Super Heros",
-            "url_link": "super_hero_wallpapers.json"
-        },
-        {
-            "id": 8,
-            "title": "Animals",
-            "url_link": "animals_wallpaper.json"
-        }
-    ]
+  "categories": [
+    {
+      "id": 7,
+      "title": "Art",
+      "url_link": "ArtsTheme.json"
+    },
+    {
+      "id": 8,
+      "title": "Gaming",
+      "url_link": "GameTheme.json"
+    },
+    {
+      "id": 9,
+      "title": "Anime",
+      "url_link": "AnimeTheme.json"
+    },
+    {
+      "id": 10,
+      "title": "Science Fiction",
+      "url_link": "Sci_FiTheme.json"
+    },
+    {
+      "id": 11,
+      "title": "Celebrities",
+      "url_link": "CelebritiesTheme.json"
+    },
+    {
+      "id": 1,
+      "title": "Cars",
+      "url_link": "CarsTheme.json"
+    },
+    {
+      "id": 2,
+      "title": "Nature",
+      "url_link": "NatureTheme.json"
+    },
+    {
+      "id": 3,
+      "title": "Love",
+      "url_link": "LoveTheme.json"
+    },
+    {
+      "id": 4,
+      "title": "Sports",
+      "url_link": "SportsTheme.json"
+    },
+    {
+      "id": 5,
+      "title": "Tech",
+      "url_link": "TechTheme.json"
+    },
+    {
+      "id": 6,
+      "title": "Christmas",
+      "url_link": "ChristmasTheme.json"
+    }
+  ]
 }
