@@ -2,6 +2,11 @@
   "categories": [
     {
       "id": 7,
+      "title": "k pop",
+      "url_link": "k_pop.json"
+    },
+    {
+      "id": 7,
       "title": "Art",
       "url_link": "ArtsTheme.json"
     },
