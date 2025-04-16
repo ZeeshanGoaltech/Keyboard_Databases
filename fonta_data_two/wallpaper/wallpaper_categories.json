@@ -16,11 +16,6 @@
       "url_link": "AnimeTheme.json"
     },
     {
-      "id": 10,
-      "title": "Science Fiction",
-      "url_link": "Sci_FiTheme.json"
-    },
-    {
       "id": 11,
       "title": "Celebrities",
       "url_link": "CelebritiesTheme.json"
