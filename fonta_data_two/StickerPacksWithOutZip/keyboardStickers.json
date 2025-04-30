@@ -1,15 +1,19 @@
 {
     "sticker_packs": [
       {
-        "title": "Angry ",
+        "title": "Cat",
         "emotes": [
-          "Angry/angry_1.webp",
-          "Angry/angry_2.webp",
-          "Angry/angry_3.webp",
-          "Angry/angry_4.webp",
-          "Angry/angry_5.webp"
+          "new_Cat_Emotes/cat_1.png",
+          "new_Cat_Emotes/cat_2.png",
+          "new_Cat_Emotes/cat_3.png",
+          "new_Cat_Emotes/cat_4.png",
+          "new_Cat_Emotes/cat_5.png",
+          "new_Cat_Emotes/cat_6.png",
+          "new_Cat_Emotes/cat_7.png",
+          "new_Cat_Emotes/cat_8.png",
+          "new_Cat_Emotes/cat_9.png"
         ],
-        "thumbnail": "Angry/agnry_thumb.jpg"
+        "thumbnail": "new_Cat_Emotes/thumbnail_cat.png"
       },
       {
         "title": "Appreciation ",
