@@ -1,130 +1,115 @@
 {
-    "sticker_packs": [
-      {
-        "title": "Cat",
-        "emotes": [
-          "new_Cat_Emotes/cat_1.png",
-          "new_Cat_Emotes/cat_2.png",
-          "new_Cat_Emotes/cat_3.png",
-          "new_Cat_Emotes/cat_4.png",
-          "new_Cat_Emotes/cat_5.png",
-          "new_Cat_Emotes/cat_6.png",
-          "new_Cat_Emotes/cat_7.png",
-          "new_Cat_Emotes/cat_8.png",
-          "new_Cat_Emotes/cat_9.png"
-        ],
-        "thumbnail": "new_Cat_Emotes/thumbnail_cat.png"
-      },
-      {
-        "title": "Appreciation ",
-        "emotes": [
-          "Appreciation/Appreciation_1.webp",
-          "Appreciation/Appreciation_2.webp",
-          "Appreciation/Appreciation_3.webp",
-          "Appreciation/Appreciation_4.webp",
-          "Appreciation/Appreciation_5.webp",
-          "Appreciation/Appreciation_6.webp"
-        ],
-        "thumbnail": "Appreciation/Appreciation_thumb.jpg"
-      },
-      {
-        "title": "Babies ",
-        "emotes": [
-          "Babies/Babies_1.webp",
-          "Babies/Babies_2.webp",
-          "Babies/Babies_3.webp",
-          "Babies/Babies_4.webp",
-          "Babies/Babies_5.webp",
-          "Babies/Babies_6.webp",
-          "Babies/Babies_7.webp",
-          "Babies/Babies_8.webp"
-        ],
-        "thumbnail": "Babies/babies_thumb.jpg"
-      },
-      {
-        "title": "Bye ",
-        "emotes": [
-          "Bye/Bye_1.webp",
-          "Bye/Bye_2.webp",
-          "Bye/Bye_3.webp",
-          "Bye/Bye_4.webp",
-          "Bye/Bye_5.webp",
-          "Bye/Bye_6.webp"
-        ],
-        "thumbnail": "Bye/bye_thumb.jpg"
-      },
-      {
-        "title": "Happy ",
-        "emotes": [
-          "Happy/Happy_1.webp",
-          "Happy/Happy_2.webp",
-          "Happy/Happy_3.webp",
-          "Happy/Happy_4.webp",
-          "Happy/Happy_5.webp",
-          "Happy/Happy_6.webp"
-        ],
-        "thumbnail": "Happy/happy_thumb.jpg"
-      },
-      {
-        "title": "Hi ",
-        "emotes": [
-          "Hi/Hi_1.webp",
-          "Hi/Hi_2.webp",
-          "Hi/Hi_3.webp",
-          "Hi/Hi_4.webp",
-          "Hi/Hi_5.webp",
-          "Hi/Hi_6.webp",
-          "Hi/Hi_7.webp",
-          "Hi/Hi_8.webp",
-          "Hi/Hi_9.webp",
-          "Hi/Hi_10.webp"
-        ],
-        "thumbnail": "Hi/hi_thumb.jpg"
-      },
-      {
-        "title": "Laugh ",
-        "emotes": [
-          "Laugh/Laugh_1.webp",
-          "Laugh/Laugh_2.webp",
-          "Laugh/Laugh_3.webp",
-          "Laugh/Laugh_4.webp",
-          "Laugh/Laugh_5.webp",
-          "Laugh/Laugh_6.webp",
-          "Laugh/Laugh_7.webp",
-          "Laugh/Laugh_8.webp",
-          "Laugh/Laugh_9.webp",
-          "Laugh/Laugh_10.webp",
-          "Laugh/Laugh_11.webp",
-          "Laugh/Laugh_12.webp",
-          "Laugh/Laugh_13.webp"
-        ],
-        "thumbnail": "Laugh/laugh_thumb.jpg"
-      },
-      {
-        "title": "Thug ",
-        "emotes": [
-          "Thug/Thug_1.webp",
-          "Thug/Thug_2.webp",
-          "Thug/Thug_3.webp",
-          "Thug/Thug_4.webp",
-          "Thug/Thug_5.webp",
-          "Thug/Thug_6.webp",
-          "Thug/Thug_7.webp"
-        ],
-        "thumbnail": "Thug/thug_thumb.jpg"
-      },
-      {
-        "title": "Worry ",
-        "emotes": [
-          "Worry/worry_1.webp",
-          "Worry/worry_2.webp",
-          "Worry/worry_3.webp",
-          "Worry/worry_4.webp",
-          "Worry/worry_5.webp",
-          "Worry/worry_6.webp"
-        ],
-        "thumbnail": "Worry/worry_thumb.jpg"
-      }
-    ]
-  }
-  
+  "sticker_packs": [
+    {
+      "title": "Cat",
+      "emotes": [
+        "new_Cat_Emotes/cat_1.png",
+        "new_Cat_Emotes/cat_2.png",
+        "new_Cat_Emotes/cat_3.png",
+        "new_Cat_Emotes/cat_4.png",
+        "new_Cat_Emotes/cat_5.png",
+        "new_Cat_Emotes/cat_6.png",
+        "new_Cat_Emotes/cat_7.png",
+        "new_Cat_Emotes/cat_8.png",
+        "new_Cat_Emotes/cat_9.png"
+      ],
+      "thumbnail": "new_Cat_Emotes/thumbnail_cat.png"
+    },
+    {
+      "title": "New Cute Boy",
+      "emotes": [
+        "new_Cute_boy/boy_1.png",
+        "new_Cute_boy/boy_2.png",
+        "new_Cute_boy/boy_3.png",
+        "new_Cute_boy/boy_4.png",
+        "new_Cute_boy/boy_5.png",
+        "new_Cute_boy/boy_6.png",
+        "new_Cute_boy/boy_7.png",
+        "new_Cute_boy/boy_8.png",
+        "new_Cute_boy/boy_9.png"
+      ],
+      "thumbnail": "new_Cute_boy/thumbnail_boy.png"
+    },
+    {
+      "title": "New Dog",
+      "emotes": [
+        "new_Dog/dog_1.png",
+        "new_Dog/dog_2.png",
+        "new_Dog/dog_3.png",
+        "new_Dog/dog_4.png",
+        "new_Dog/dog_5.png",
+        "new_Dog/dog_6.png",
+        "new_Dog/dog_7.png",
+        "new_Dog/dog_8.png",
+        "new_Dog/dog_9.png",
+        "new_Dog/dog_10.png",
+        "new_Dog/dog_11.png",
+        "new_Dog/dog_12.png"
+      ],
+      "thumbnail": "new_Dog/thumbnail_dog.png"
+    },
+    {
+      "title": "New Girl",
+      "emotes": [
+        "new_Girl/girl_1.png",
+        "new_Girl/girl_2.png",
+        "new_Girl/girl_3.png",
+        "new_Girl/girl_4.png",
+        "new_Girl/girl_5.png",
+        "new_Girl/girl_6.png",
+        "new_Girl/girl_7.png",
+        "new_Girl/girl_8.png",
+        "new_Girl/girl_9.png"
+      ],
+      "thumbnail": "new_Girl/thumbnail_girl.png"
+    },
+    {
+      "title": "New Lovely Emotes",
+      "emotes": [
+        "new_Lovely_Emotes/love_1.png",
+        "new_Lovely_Emotes/love_2.png",
+        "new_Lovely_Emotes/love_3.png",
+        "new_Lovely_Emotes/love_4.png",
+        "new_Lovely_Emotes/love_5.png",
+        "new_Lovely_Emotes/love_6.png",
+        "new_Lovely_Emotes/love_7.png",
+        "new_Lovely_Emotes/love_8.png",
+        "new_Lovely_Emotes/love_9.png"
+      ],
+      "thumbnail": "new_Lovely_Emotes/thumbnail_love.png"
+    },
+    {
+      "title": "New Mushroom",
+      "emotes": [
+        "new_Mushroom/mash_1.png",
+        "new_Mushroom/mash_2.png",
+        "new_Mushroom/mash_3.png",
+        "new_Mushroom/mash_4.png",
+        "new_Mushroom/mash_5.png",
+        "new_Mushroom/mash_6.png",
+        "new_Mushroom/mash_7.png",
+        "new_Mushroom/mash_8.png",
+        "new_Mushroom/mash_9.png"
+      ],
+      "thumbnail": "new_Mushroom/thumbnail_mash.png"
+    },
+    {
+      "title": "New Panda",
+      "emotes": [
+        "new_Panda/panda_1.png",
+        "new_Panda/panda_2.png",
+        "new_Panda/panda_3.png",
+        "new_Panda/panda_4.png",
+        "new_Panda/panda_5.png",
+        "new_Panda/panda_6.png",
+        "new_Panda/panda_7.png",
+        "new_Panda/panda_8.png",
+        "new_Panda/panda_9.png",
+        "new_Panda/panda_10.png",
+        "new_Panda/panda_11.png",
+        "new_Panda/panda_12.png"
+      ],
+      "thumbnail": "new_Panda/thumbnail_panda.png"
+    }
+  ]
+}
