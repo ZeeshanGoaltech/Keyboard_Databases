@@ -2,16 +2,9 @@
   "themes": [
     {
       "theme_id": 123,
-      "theme_name": "kb/key_thumb/key_function5_bg_t1.png",
-      "theme_zip_link": "kb/theme_1.zip",
-      "theme_thumbnail": "kb/thumbnail_t1.png",
-      "theme_type": "Trendy"
-    },
-    {
-      "theme_id": 124,
-      "theme_name": "kb/key_thumb/key_function5_bg_t2.png",
-      "theme_zip_link": "kb/theme_2.zip",
-      "theme_thumbnail": "kb/thumbnail_t2.png",
+      "theme_name": "kb/keyboard_2025_data_/thumbkey_t27.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/Keyboard10.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnail_27.png",
       "theme_type": "Trendy"
     }
     
