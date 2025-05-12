@@ -1,5 +1,16 @@
 {
   "sticker_packs": [
+     {
+      "title": "Angry",
+      "emotes": [
+        "Angry/angry_1.webp",
+        "Angry/angry_2.webp",
+        "Angry/angry_3.webp",
+        "Angry/angry_4.webp",
+        "Angry/angry_5.webp"
+      ],
+      "thumbnail": "new_Cat_Emotes/agnry_thumb.jpg.png"
+    },
     {
       "title": "Cat",
       "emotes": [
